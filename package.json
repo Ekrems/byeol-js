@@ -1,0 +1,28 @@
+{
+  "name": "byeol-js",
+  "version": "0.6.7",
+  "description": "Türkçe Web Tabanlı Modül",
+  "main": "index.js",
+  "homepage": "https://byeoljs.com/",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "byeoljs"
+  ],
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "author": "Ekrem Turan Fırat",
+  "license": "MIT"
+}
