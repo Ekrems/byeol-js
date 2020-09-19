@@ -150,4 +150,4 @@ E-Mail: info@byeoljs.com
 
 Discord Server: https://discord.gg/n3WJRfz
 
-[![Byeol Detay](https://cdn.discordapp.com/attachments/503224305816043530/503228887048650762/byeoldetay.png)](https://byeoljs.com/)
+
