@@ -100,8 +100,6 @@ MIT(License)
 ##İletişim ve Sosyal Ağlar
 Web Sitesi: https://byeoljs.com/
 
-Telefon +90 532 059 5002 *Not : Gizli numaradan aramayı denemeyin gizli numaralara kapalı eğer önemli birşey dışında aranırsa ya da işletilmeye çalışılırsa mahkeme kağıdını kapınızda bulursunuz şimdiden söyliyim sadece gerekli şeylerde arayın mesela bana hiçbir şekilde ulaşamazsanız.
-
 E-Posta: info@byeoljs.com
 
 Discord Sunucusu: https://discord.gg/n3WJRfz
